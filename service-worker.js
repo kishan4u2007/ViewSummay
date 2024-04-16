@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ViewSummay/precache-manifest.d643d463f5a0f7e62eb6c1110cc918b0.js"
+  "/ViewSummay/precache-manifest.9315e594de174b9fa413114a5380262a.js"
 );
 
 workbox.clientsClaim();
